@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cofluent:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:id="__LucYBy3Ee25QtDKmUUowQ" name="ImrovedLogic6App" version="8.1.1_r1_586" target="" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" cyclePeriod="10 ns" affinity="" priority="0" schedulingPolicy="FIFO" InterfaceBlockingBehavior="RELEASE_CORE" timeSlicePeriod="10 ms" staticCodeSize="0 kB" staticDataSize="0 kB" staticPowerConsumption="0 uW" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" coSimulationType="NONE_COSIM">
+  <annotations xmi:id="__MWHcBy3Ee25QtDKmUUowQ" source="cdt.configurations">
+    <details xmi:id="__MWHcRy3Ee25QtDKmUUowQ" key="cofluent.managedbuild.config.msvc2019.exe.release.1613852185" value="cdt.configuration.active"/>
+  </annotations>
+  <refinement xsi:type="cofluent:Structure" xmi:id="__LucYRy3Ee25QtDKmUUowQ" name="ImrovedLogic6AppSt"/>
+</cofluent:Application>
